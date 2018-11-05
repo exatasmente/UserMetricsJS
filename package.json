@@ -1,0 +1,15 @@
+{
+  "name": "user-metrics",
+  "version": "1.0.1",
+  "description": "general propouse user metrics api",
+  "main": "userMetrics.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "metrics",
+    "user"
+  ],
+  "author": "Luiz Neto <luizn@alu.ufc.br>",
+  "license": "ISC"
+}
